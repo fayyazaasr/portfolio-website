@@ -1,5 +1,7 @@
 #  Portfolio Website – Fayyaza Naira SR
 
+![preview](image.png)
+
 ---
 
 ## 🌟 Features
