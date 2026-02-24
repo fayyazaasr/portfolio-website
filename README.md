@@ -18,17 +18,29 @@
 
 ## 📂 Project Structure
 portfolio-website/
+
 ├── assets/
+
 │ └── img/
+
 │ ├── profile.jpeg # Profile photo
+
 │ ├── org1.png
+
 │ ├── org2.png
+
 │ ├── org3.png # Organizational activity photos
+
 │ ├── project1.jpg
+
 │ ├── project2.png
+
 │ ├── project3.png
+
 │ └── project4.png # Project images
+
 ├── index.html # Main HTML file
+
 ├── README.md # Documentation
 
 ## 🎨 Website Sections
@@ -77,7 +89,9 @@ portfolio-website/
 👤 Author
 
 Fayyaza Naira Sophan Rachmat
+
 🎓 Mechatronics Engineering Student
+
 📍 Makassar, Indonesia
 
 GitHub: https://github.com/fayyazaasr
